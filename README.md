@@ -28,15 +28,4 @@ tenho 18 anos, sou um estudante de Ciência da Computação na Unifucamp (2º se
 <!-- Linguagens mais usadas -->
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-David&layout=compact&theme=dracula)
 
-<!-- Dias seguidos de contribuição -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edimar-David&theme=dracula)](https://git.io/streak-stats)
-
-
 ---
-### Vamos nos conectar?
-
-- Email: edimarjr51@gmail.com
-- LinkedIn: 
----
-
-**"Aprender, criar e compartilhar: esse é o meu código."**
