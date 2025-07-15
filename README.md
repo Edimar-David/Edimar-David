@@ -22,13 +22,6 @@ tenho 18 anos, sou um estudante de Ciência da Computação na Unifucamp (2º se
 
 ---
 
-### Objetivos
-
-- Conquistar minha primeira vaga como estagiário em desenvolvimento de software.
-- Finalizar e lançar um jogo indie completo com potencial comercial.
-- Aprofundar meus conhecimentos em programação, estrutura de software e boas práticas.
-
----
 <!-- Stats gerais -->
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Edimar-David&show_icons=true&theme=dracula&locale=pt-br)
 
