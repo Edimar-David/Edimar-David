@@ -19,7 +19,7 @@ tenho 18 anos, sou um estudante de Ciência da Computação na Unifucamp (2º se
 
 - **Jogo cooperativo de puzzle/plataforma** – Em desenvolvimento com foco em narrativa e cooperação local.
 - **Sistema bancário em Java com POO** – Projeto para praticar orientação a objetos.
-- - **gerador de senhas** – Projeto para estudar como se ultiliza o StringBuilder em Java.
+- **gerador de senhas** – Projeto para estudar como se ultiliza o StringBuilder em Java.
 
 ---
 
