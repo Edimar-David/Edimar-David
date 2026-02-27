@@ -1,5 +1,5 @@
 ## Me chamo Edimar
-tenho 18 anos, sou um estudante de Ciência da Computação na Unifucamp (2º semestre) e estou focado em desenvolver minhas habilidades como programador. No momento, estou estudando Java e também trabalhando no desenvolvimento de jogos.
+tenho 1 anos, sou um estudante de Ciência da Computação na Unifucamp (3º semestre) e estou focado em desenvolver minhas habilidades como programador. No momento, estou estudando Java e também trabalhando no desenvolvimento de jogos.
 
 ---
 
@@ -17,7 +17,7 @@ tenho 18 anos, sou um estudante de Ciência da Computação na Unifucamp (2º se
 
 ###  Projetos em andamento
 
-- **Jogo cooperativo de puzzle/plataforma** – Em desenvolvimento com foco em narrativa e cooperação local.
+- **Dashboard web usando SpringBoot** - Projeto para aprender a ultilizar os metodos https
 - **Sistema bancário em Java com POO** – Projeto para praticar orientação a objetos.
 - **gerador de senhas** – Projeto para estudar como se ultiliza o StringBuilder em Java.
 
