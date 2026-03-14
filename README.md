@@ -1,6 +1,5 @@
 ## Me chamo Edimar
-tenho 1 anos, sou um estudante de Ciência da Computação na Unifucamp (3º semestre) e estou focado em desenvolver minhas habilidades como programador. No momento, estou estudando Java e também trabalhando no desenvolvimento de jogos.
-
+tenho 1 anos, sou um estudante de Ciência da Computação na Unifucamp (3º semestre) e estou focado em desenvolver minhas habilidades como programador. No momento, estou estudando Java e também trabalhando no desenvolvimento de projetos com springboot ##
 ---
 
 ###  O que estou estudando
@@ -9,9 +8,6 @@ tenho 1 anos, sou um estudante de Ciência da Computação na Unifucamp (3º sem
 -  JavaScript – Curso em Vídeo    
 -  Maratona Java – DevDojo (em andamento)
 -  Poo com Java - Curso em Vídeo  
--  Desenvolvimento de Jogos – Noone Class  
-
-
 
 ---
 
