@@ -1,28 +1,27 @@
-## Me chamo Edimar
-tenho 1 anos, sou um estudante de Ciência da Computação na Unifucamp (3º semestre) e estou focado em desenvolver minhas habilidades como programador. No momento, estou estudando Java e também trabalhando no desenvolvimento de projetos com springboot ##
----
+# Olá, eu sou Edimar 👋
 
-###  O que estou estudando
+Desenvolvedor backend em formação focado em Java e Spring Boot.
 
--  Algoritmos e Lógica de Programação – Curso em Vídeo  
--  JavaScript – Curso em Vídeo    
--  Maratona Java – DevDojo (em andamento)
--  Poo com Java - Curso em Vídeo  
+ Objetivo: conquistar minha primeira vaga como desenvolvedor backend.
 
----
+##  Tecnologias
 
-###  Projetos em andamento
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Docker (aprendendo)
+- HTML / CSS / JavaScript
 
-- **Dashboard web usando SpringBoot** - Projeto para aprender a ultilizar os metodos https
-- **Sistema bancário em Java com POO** – Projeto para praticar orientação a objetos.
-- **gerador de senhas** – Projeto para estudar como se ultiliza o StringBuilder em Java.
+## 📌 Projetos principais
 
----
+Sistema de Agendamento para Barbearias  
+API REST multiusuário com autenticação e gerenciamento de horários.
 
-<!-- Stats gerais -->
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Edimar-David&show_icons=true&theme=dracula&locale=pt-br)
+ API de Pedidos (E-commerce)  
+Sistema de pedidos com clientes, produtos e controle de status.
 
-<!-- Linguagens mais usadas -->
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-David&layout=compact&theme=dracula)
+## Contato
 
----
+LinkedIn:  
+Email:
