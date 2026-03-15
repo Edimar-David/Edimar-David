@@ -1,25 +1,43 @@
-# Olá, eu sou Edimar 👋
+# Olá, eu sou Edimar
 
-Desenvolvedor backend em formação focado em Java e Spring Boot.
+Estudante de Ciência da Computação focado em desenvolvimento backend.
 
- Objetivo: conquistar minha primeira vaga como desenvolvedor backend.
+Atualmente estou estudando **Java e Spring Boot** e construindo projetos para desenvolver experiência prática com APIs REST.
 
-##  Tecnologias
+---
+
+## Tecnologias
 
 - Java
 - Spring Boot
-- REST APIs
 - PostgreSQL
-- Docker (aprendendo)
-- HTML / CSS / JavaScript
+- REST APIs
+- HTML
+- CSS
+- JavaScript (básico)
 
-## 📌 Projetos principais
+---
 
-Sistema de Agendamento para Barbearias  
-API REST multiusuário com autenticação e gerenciamento de horários.
+## Projeto Principal
 
- API de Pedidos (E-commerce)  
-Sistema de pedidos com clientes, produtos e controle de status.
+ Sistema de Agendamento para Barbearias  
+
+API REST desenvolvida em **Spring Boot** para gerenciamento de clientes e agendamentos.
+
+Funcionalidades:
+
+- cadastro de usuários
+- cadastro de barbeiros
+- agendamento de horários
+- gerenciamento de clientes
+
+---
+
+## Objetivo
+
+Conseguir minha primeira oportunidade como **Desenvolvedor Backend Java**.
+
+---
 
 ## Contato
 
