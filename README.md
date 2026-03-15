@@ -41,5 +41,5 @@ Conseguir minha primeira oportunidade como **Desenvolvedor Backend Java**.
 
 ## Contato
 
-LinkedIn:  
-Email:
+LinkedIn: www.linkedin.com/in/edimar-david
+Email: edimarj51@gmail.com
