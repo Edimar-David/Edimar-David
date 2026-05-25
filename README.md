@@ -18,21 +18,6 @@ Atualmente estou estudando **Java e Spring Boot** e construindo projetos para de
 
 ---
 
-## Projeto Principal
-
- Sistema de Agendamento para Barbearias  
-
-API REST desenvolvida em **Spring Boot** para gerenciamento de clientes e agendamentos.
-
-Funcionalidades:
-
-- cadastro de usuários
-- cadastro de barbeiros
-- agendamento de horários
-- gerenciamento de clientes
-
----
-
 ## Objetivo
 
 Conseguir minha primeira oportunidade como **Desenvolvedor Backend Java**.
